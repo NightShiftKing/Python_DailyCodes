@@ -31,5 +31,5 @@ plt.imshow(image_data, cmap='cividis')
 plt.colorbar()
 plt.show()
 
-plt.imshow(image_data2, cmap='cividis')
+plt.imshow(image_data2, cmap='Pastel1')
 plt.show()
